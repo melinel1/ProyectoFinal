@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(255, 251, 239);
+}
+
+nav {
+    background-color: #50514F;
+}
+
+#clinicamel{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#chica{
+    filter: brightness(75%);
+}
+
+#optometrista{
+    filter: brightness(100%);
+}
+
+#nosotros{
+    color: rgb(194, 137, 97);
+}
+
+#title{
+    color: rgb(114, 49, 2);
+}
+
+#profesionales{
+    background-color: lightblue;
+}
+
+#ingreso{
+    background-color: rgb(250, 235, 221);
+    border: cornflowerblue;
+    border-width: 1cm;
+    border-radius: 1cm;
+}
+
+#contactenos{
+    color: rgb(45, 74, 49);
+    background-color: rgb(205, 190, 171);
+    border-radius: 5cm;
+    border-style:outset;
+    padding: 1cm;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer{
+    margin-top: 1cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    background-color: #212529;
+}
+
+#busqueda{
+    text-align: center;
+    margin-top: 2cm;
+}
+
+#form{
+    text-align: center;
+}
+
+#center{
+    text-align: center;
+}
+
+#correcto{
+    text-align: center;
+}
+
+#salvar{
+    text-align: center;
+    margin-top: 2cm;
+}
+
+#error{
+    text-align: center;
+    margin-top: 2cm;
+}
+
+#incorrecto{
+    text-align: center;
+}
+
+#perfil{
+    text-align: center;
+    margin-top: 2cm;
+}
+
+#datos{
+    text-align: center;
+}

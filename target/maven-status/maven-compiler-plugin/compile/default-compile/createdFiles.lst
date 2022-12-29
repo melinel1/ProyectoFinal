@@ -1,0 +1,4 @@
+com\mycompany\web\models\AccionesPaciente.class
+com\mycompany\web\servlets\VerCServlet.class
+com\mycompany\web\models\Paciente.class
+com\mycompany\web\servlets\InsertarServlet.class
